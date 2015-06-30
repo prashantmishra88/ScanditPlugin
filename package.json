@@ -1,0 +1,27 @@
+{
+  "name": "aplimovil-plugin-scandit",
+  "version": "4.7.0",
+  "description": "Scandit Barcode Scanner plugin with SDK included.",
+  "cordova": {
+    "id": "aplimovil-plugin-scandit",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplimovil/ScanditPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Scandit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplimovil/ScanditPlugin/issues"
+  },
+  "homepage": "https://github.com/aplimovil/ScanditPlugin#readme"
+}
