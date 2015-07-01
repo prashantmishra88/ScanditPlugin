@@ -1,4 +1,4 @@
-<?xml version="1.0" ?> <plugin id="aplimovil-plugin-scandit" version="4.7.0" xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<?xml version="1.0" ?> <plugin id="aplimovil-plugin-scandit" version="4.7.1" xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>Scandit Barcode Scanner</name>
     <description>Scandit Barcode Scanner plugin with SDK included.</description>  
 
